@@ -139,45 +139,45 @@ Using “Small is beautiful”, with a "Plus the kitchen sink" mindset, design p
 
 ## No Java or Net Framework needed.
 
-**Media:
+**Media**:
 
 - Min: Internal or external 3.5" PC floppy diskette drive. 
 
 - Suggested: If possible, one of my USB versions of this toolkit.
 
-**Bit level:
+**Bit level**:
 
 - Min: 32bit. 64bit is fully supported by all tools. Some may require XP compatibility mode under 64bit windows Vista+.
 
-**CPU:
+**CPU**:
 
 - Min: Intel P55C 120mhz or AMD K6 233mhz with mmx CPU.
 
 - Suggested: 300mhz+ 32bit CPU, with mmx, or equilvent.
 
-**Ram:
+**Ram**:
 
 - Min: Under Windows 2000/FLPC, 64mb. Windows Vista+, 512mb. 
 
 - Suggested: 1024mb or more.
 
-**Video memory:
+**Video memory**:
 
 - Min: Any amount present on a video adapter supportting Windows 95 should do. 
 
 - Suggested: 8mb, shared, or more.
 
-**Disk space:
+**Disk space**:
 
 - Min: Aprox 1900kb, or 1.85mb.
 
-**Monitor:
+**Monitor**:
 
 - Min: 640x480 VGA colour. 
 
 - Suggested: 800x600+ with as many color your system supports.
 
-**OS's: 
+**OS's**: 
 
 - The last patch versions of Windows 2000 and Windows Fundamentals For Legacy PC's, are the minimun supported OS's, forward, to Windows 10. With both 32 and 64bit users supported.
 
@@ -240,7 +240,7 @@ Using “Small is beautiful”, with a "Plus the kitchen sink" mindset, design p
 -------------------------------- --------------- -------------- ------- -------------------------------------
 | **Xcalday Calendar** 	 	| 62 KB         | 64 KB        |   1   |   Calendar with scheduler and notes |
 -------------------------------- --------------- -------------- ------- -------------------------------------
-| **Xpass**			| 13 KB         | 16 KB        |   2   |   Hidden password recovery          |
+| **Xpass**			| *13 KB*         | **16 KB**        |   *2*   |   *Hidden password recovery*          |
 -------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------------
