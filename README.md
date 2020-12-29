@@ -27,7 +27,7 @@
 
 - Manage your RAM to try freeing 64mb, if possible. 
 
-- Open and edit doc files, save as rtf with iage support
+- Open and edit doc files, save as rtf with image support
 
 - Open and edit xlsx, or lesser spreadsheet file types.
 
