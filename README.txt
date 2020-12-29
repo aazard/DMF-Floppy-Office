@@ -15,7 +15,7 @@
 
 ***
 
-# An update of Xort.org's FloppyOffice v4.0, which is now defunct.
+# An update of Xtort.net's FloppyOffice v4.0, which is now defunct.
 
 ## Full toolset size zipped, All are zipped but the 100K Zipper, is: 1677kb.
 
@@ -126,7 +126,7 @@ My goal was to extend, improve and update the former the FloppyOffice v4.0 packa
 
 Using “Small is beautiful”, with a "Plus the kitchen sink" mindset, design philosophy; that being: attempt to be as inclusive as possible, being respectful to disk space and resource use.
 
-- The original FloppyOffice v4.0 package, created by xort.org, was a small, portable productivity software suite which offers a collection of unique standalone free software applications. 
+- The original FloppyOffice v4.0 package, created by Xtort.net, was a small, portable productivity software suite which offers a collection of unique standalone free software applications. 
 
 - FloppyOffice v4.0, the last release, was last updated, in its floppy version, in 2004. Its authors website has been offline from atleast mid-2016.
 
