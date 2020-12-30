@@ -1,6 +1,11 @@
 # Aazards Website, with releases details: https://aazard.github.io/
 
 ***
+aazards Logo | Tiny USB Logo
+------------ | -------------
+![aazards Logo](https://i.ibb.co/qy9t6Kc/Human-Stuff-Standard-Suit-Animated-480.webp) | ![Tiny USB Logo](https://i.ibb.co/19BWW3Z/51-Ug-RY4fo-HL.png)
+
+***
 
 # DMF-Floppy-Office
 ### DMF Floppy Office v5.0.1: A Reasonable Office Suite, of 22 tools, Fitting Inside 1680kb!
