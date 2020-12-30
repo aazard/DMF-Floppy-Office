@@ -1,5 +1,5 @@
 # DMF-Floppy-Office
-### DMF Floppy Office v5.0.1: A Reasonable Office Suite, of 23 tools, Fitting Inside 1680kb!
+### DMF Floppy Office v5.0.1: A Reasonable Office Suite, of 22 tools, Fitting Inside 1680kb!
 
 - v5.0.1 is 1st release, named v5.x.x in homage to the last version of Xtort's FloppyOffice which was v4.0.
 
@@ -21,7 +21,7 @@
 
 ***
 
-### What Can You Do? Toolkit includes 23 Tools:
+### What Can You Do? Toolkit includes 22 Tools:
 
 - Pure GUI toolkit, no need for CMD prompt use.
 
